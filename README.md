@@ -3,8 +3,8 @@ Connecting Siri with AWS Lambda to get IPO fron Nepal Market
 
 
 # Motivation
-Always Searching for the list of IPO from the website is 
-kind of a redudant task, why not to use the combination of AWS Lambda and Siri to automate this task for you. Simply User Shortcuts application to make an automation or a voice command to run the application. I have made an application similar to this before which you can check it out here on my [Medium](https://medium.com/swlh/combining-siri-and-aws-lambda-to-get-the-monthly-aws-spending-of-your-account-59be7cb66679?source=user_profile---------3----------------------------) post
+Always searching for the list of IPO from the website is 
+kind of a redudant task, why not to use the combination of AWS Lambda and Siri to automate this task for you. Simply use Shortcuts application to make an automation or a voice command to run the application. I have made an application similar to this before which you can check it out here on my [GitHub](https://github.com/codexponent/siri-lambda) and its subsequent post on [Medium](https://medium.com/swlh/combining-siri-and-aws-lambda-to-get-the-monthly-aws-spending-of-your-account-59be7cb66679?source=user_profile---------3----------------------------) post.
 
 # Tools
 - AWS Lambda Function
